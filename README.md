@@ -1,7 +1,5 @@
 # Scalable-Ecommerce-Platform-
-ecommerce-platform
-├── .github
-│   └── workflows
+└── workflows
 │       └── ci-cd.yml
 ├── src
 │   ├── backend
@@ -21,5 +19,5 @@ ecommerce-platform
 │   ├── cloudfront_setup.sh
 │   └── ...
 ├── README.md
-├── LICENSE
 └── .gitignore
+
